@@ -18,10 +18,13 @@ Clean, maintainable component-based architecture
 
 Clone the repository:
 git clone https://github.com/your-username/vue-shop.git
+
 cd vue-shop
 
 ## Install dependencies:
 
 npm install
-Run the development server:
+
+## Run the development server:
+
 npm run dev
