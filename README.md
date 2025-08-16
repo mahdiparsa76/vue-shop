@@ -1,5 +1,27 @@
-# Vue 3 + Vite
+#Vue Shop – E-commerce SPA 🛒
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+A single-page e-commerce application built with Vue 3, Vite, Pinia, Vue Router, and Axios, featuring dynamic product fetching, interactive cart, and a responsive user interface.
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+#Features
+
+Fetch products dynamically from FakeStore API
+
+Interactive shopping cart with add, remove, and clear functionality
+
+Cart Badge in the header showing live item count
+
+Responsive modern UI with product cards and hover effects
+
+Clean, maintainable component-based architecture
+
+#Installation
+
+Clone the repository:
+git clone https://github.com/your-username/vue-shop.git
+cd vue-shop
+
+#Install dependencies:
+
+npm install
+Run the development server:
+npm run dev
