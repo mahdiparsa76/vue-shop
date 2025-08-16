@@ -1,8 +1,8 @@
-#Vue Shop – E-commerce SPA 🛒
+# Vue Shop – E-commerce SPA 🛒
 
 A single-page e-commerce application built with Vue 3, Vite, Pinia, Vue Router, and Axios, featuring dynamic product fetching, interactive cart, and a responsive user interface.
 
-#Features
+## Features
 
 Fetch products dynamically from FakeStore API
 
@@ -14,13 +14,13 @@ Responsive modern UI with product cards and hover effects
 
 Clean, maintainable component-based architecture
 
-#Installation
+## Installation
 
 Clone the repository:
 git clone https://github.com/your-username/vue-shop.git
 cd vue-shop
 
-#Install dependencies:
+## Install dependencies:
 
 npm install
 Run the development server:
