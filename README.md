@@ -2,8 +2,6 @@
 
 A single-page e-commerce application built with Vue 3, Vite, Pinia, Vue Router, and Axios, featuring dynamic product fetching, interactive cart, and a responsive user interface.
 
-https://mahdiparsa76.github.io/vue-shop/
-
 ## Features
 
 Fetch products dynamically from FakeStore API
